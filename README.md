@@ -15,10 +15,15 @@
 -> Credentials:  + create credentails
     -> Oauth client id
     
-##Web Client    
+## Web Client    
 
 Add uri : http://localhost
-        : http://localhost:3003  (2 times)
+
+
+        : http://localhost:3003  
+        
+        
+        (2 times)
         
 
 copy and save details : Download
