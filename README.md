@@ -1,24 +1,37 @@
 # GOOGLE CLOUD CONSOLE
 
 -> : API & Services : Credentials
+
 -> New project
+
 -> : configure consent screen || search Oauth consent screen
+
 -> External : fill in the details
+
 -> Test users: Add on euser
+
 -> Back to dashboard
+
 -> Credentials:  + create credentails
     -> Oauth client id
--> ##Web Client    
+    
+##Web Client    
+
 Add uri : http://localhost
         : http://localhost:3003  (2 times)
+        
 
 copy and save details : Download
 
 
--> ## creat react app
+
+## creat react app
+
 
 index.html :
+
  -> add this script tag
+ 
     <script src ="https://accounts.google.com/gsi/client" async defer ></script>
 
 -> Refer the code in App.js in the repository for further installation
