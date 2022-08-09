@@ -17,12 +17,8 @@
     
 ## Web Client    
 
-Add uri : http://localhost
-
-
-        : http://localhost:3003  
-        
-        
+Add uri : http://localhost & 
+        : http://localhost:3000
         (2 times)
         
 
